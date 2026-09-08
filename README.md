@@ -7,3 +7,5 @@ Phil Kendrick C. Bausa
 [CT Skill](ctskillsSectionLN.md)
 
 [Classes and Objects](classObjectUML.md)
+
+[Attributes and Methods](classAttributesMethods.md)
