@@ -16,7 +16,7 @@ Link to my previous activity:
 ![Class Diagram](images/classDiagramSG5.png)
 ## Python Implementation [View Python Source](classImplementation.py)
 ## Test Run
-![Test Run](images/classTestRun.png)
+![Test Run](images/classTestRun.jpg)
 ## Object Diagram
 ![Object Diagram](images/objectDiagram.png)
 ## Analysis
