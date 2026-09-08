@@ -3,5 +3,7 @@ Phil Kendrick C. Bausa
 9 - Magnesium
 
 [Zodiac Coding Exercise](zodiacSectionLN.md)
+
 [CT Skill](ctskillsSectionLN.md)
+
 [Classes and Objects](classObjectUML.md)
