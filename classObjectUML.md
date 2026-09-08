@@ -43,3 +43,5 @@ Advisor because the other properties have equal importance. I chose this propert
 ### Which method is the most useful? Why?
 
 Dance because I personally have biases on the three. Overall, they are equal but from my preferences, I think that dance is more useful. 
+
+## No major changes were needed from my originsl design. 
