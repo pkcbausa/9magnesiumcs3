@@ -15,7 +15,7 @@
 
 ## Methods
 | Method | Description |
-|---|---|---|
+|---|---|
 |Dance|Moves body to express emotions| 
 |Sing|Use voice to create sound|
 |Play|Creates music using instruments|
