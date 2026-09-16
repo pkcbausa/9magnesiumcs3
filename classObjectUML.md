@@ -3,10 +3,10 @@
 ## Organization of three disciplines (Dance Troupe, Harmonia, Rondalla) 
 ## Properties
 
-|---|---|---|
+
 
 | Property | Data Type | Description |
-
+|---|---|---|
 |Adviser|string|Teacher in charge|
 
 |Total members|int|amount of students|
