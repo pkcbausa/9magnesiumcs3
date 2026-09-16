@@ -8,24 +8,22 @@
 | Property | Data Type | Description |
 |---|---|---|
 |Adviser|string|Teacher in charge|
-
+|---|---|---|
 |Total members|int|amount of students|
-
+|---|---|---|
 | Instruments|boolean|can play instruments well or not|
-
+|---|---|---|
 | Voice range| boolean| can sing well or not|
-
+|---|---|---|
 | Dance ability| boolean| can dance well or not|
 
 ## Methods
 | Method | Description |
-
 |---|---|
-
 |Dance|Moves body to express emotions| 
-
+|---|---|---|
 |Sing|Use voice to create sound|
-
+|---|---|---|
 |Play|Creates music using instruments|
 
 ## Class Diagram
