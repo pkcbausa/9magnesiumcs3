@@ -9,3 +9,5 @@ Phil Kendrick C. Bausa
 [Classes and Objects](classObjectUML.md)
 
 [Attributes and Methods](classAttributesMethods.md)
+
+[Quarter 2](q2/sg8_encapsulation.py)
