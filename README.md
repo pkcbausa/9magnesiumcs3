@@ -10,4 +10,4 @@ Phil Kendrick C. Bausa
 
 [Attributes and Methods](classAttributesMethods.md)
 
-[Quarter 2](q2/sg8_encapsulation.py)
+[Quarter 2](q2)
